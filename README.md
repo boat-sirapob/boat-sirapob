@@ -3,4 +3,3 @@ My name is Sirapob Sriviriyahphaiboon. I am a year 3 student at the University o
 
 # Contact Me
 email: boat.sirapob@gmail.com
-linkedin: linkedin.com/in/boat-sirapob
